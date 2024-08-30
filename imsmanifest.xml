@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6exVBHULA8U" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5hACNz06blt" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,13 +53,13 @@
   <organizations default="Work-4-Water_Topic_5_ORG">
     <organization identifier="Work-4-Water_Topic_5_ORG">
       <title>Work-4-Water Topic 5</title>
-      <item identifier="Topic_3b_10.16_SCO" isvisible="true" identifierref="__6exVBHULA8U_RES">
+      <item identifier="Topic_3b_10.16_SCO" isvisible="true" identifierref="__5hACNz06blt_RES">
         <title>Work-4-Water Topic 5</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6exVBHULA8U_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5hACNz06blt_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5oidMKcyAnu_P_113_0_1820_1368.jpg" />
       <file href="mobile/6IIKu9xjo1O_X_P_-3_537_1638_230.jpg" />
@@ -101,6 +101,7 @@
       <file href="mobile/6hDAMzYsnMf.jpg" />
       <file href="mobile/6UqEljpaBhJ_P_0_1440_1637_226.jpg" />
       <file href="mobile/6EfEhDaPozi.png" />
+      <file href="mobile/6nXQX9YrsSp_B10_R65A9E6_P_0_658_2048_283.jpg" />
       <file href="mobile/6EmZShdLiZR.jpg" />
       <file href="mobile/6kBGDWJ2Ucv_P_256_0_1535_1536.jpg" />
       <file href="mobile/6OXdR1PGMeO_P_0_204_1638_1638.jpg" />
